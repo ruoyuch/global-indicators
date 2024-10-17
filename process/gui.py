@@ -488,7 +488,7 @@ def summary_table():
 
 
 def comparison_table(
-    comparison,
+    comparison----,
     comparison_list=None,
     save=False,
     display=True,
